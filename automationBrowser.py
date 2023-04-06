@@ -10,8 +10,8 @@ pyautogui.click(153,15,duration=1.5)
 pyautogui.click(329,49,duration=1.5)
 
 #faz a pesquisa do site desejado
-pyautogui.write('google.com')
+pyautogui.write('youtube.com')
 pyautogui.press('enter')
 
-#nesse comando estava apenas testando.
+#nesse comando estava apenas brincando.
 #pyautogui.confirm(text='Sua senha está expirada', title='Teste', buttons=['OK', 'Cancel'])
